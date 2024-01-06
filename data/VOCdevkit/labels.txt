@@ -1,0 +1,7 @@
+__ignore__
+_background_
+obstacle
+road
+sidewalk
+crosswalk
+yellow-warning-block

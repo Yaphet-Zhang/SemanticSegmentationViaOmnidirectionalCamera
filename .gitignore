@@ -1,0 +1,34 @@
+# data
+data/Cityscapes/cityscapesScripts
+data/Cityscapes/gtFine
+data/Cityscapes/leftImg8bit
+data/Cityscapes/VOCzbw
+data/Cityscapes/cityscapes_description.jpg
+
+data/VOCdevkit/annotated
+data/VOCdevkit/annotated_mask
+data/VOCdevkit/VOCzbw
+data/VOCdevkit/VOCzbw_mask
+
+data/labelme_description.docx
+
+
+# weights
+weights/6vs34class/pspnet_50_Cityscapes.pth
+weights/6vs34class/pspnet_50.pth
+weights/pspnet50_ADE20K.pth
+
+weights/17class/deeplabv350.pth
+weights/17class/deeplabv3100.pth
+weights/17class/pspnet50.pth
+weights/17class/pspnet100.pth
+weights/17class/unet100.pth
+
+# script
+Inference_cpu.ipynb
+Inference_gpu.ipynb
+Inference_realtime_gpu.ipynb
+labelme_color_order.ipynb
+Normalization_from_PIL_OR_OpenCV.ipynb
+PSPNet.ipynb
+README_local.md

@@ -1,0 +1,9 @@
+ipykernel
+numpy
+Pillow
+matplotlib
+pandas
+opencv-python
+tqdm
+imgviz==0.12.1
+labelme==4.5.7
